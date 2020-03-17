@@ -1,0 +1,68 @@
+{
+	"origin": [
+		"doug speed #connector# #ending#",
+		"doug speed #connector# #compund# #ending#",
+		"fuck you, the #noun# #ending#",
+		"the concept of a #noun# freaks me out. Why can't you be more like #noun.s#? #hashtag#"
+	],
+	"connector" : ["doesnt #doesnt#","will #will#","is #is#","can #can#", "once #once#"
+	],
+	"ending" : [
+		"",
+		"#hashtag#"
+	],
+	"compund" : [
+		"but #connector#",
+		"and #connector#"
+	],
+	"doesnt" : [
+			"stay anywhere two nights in a row",
+			"pay for first dates",
+			"fuck with #noun.s#",
+			"kiss on the lips"
+		],
+	"will" : [
+		"pick up #noun.a# to impress some #noun.s#"
+	],
+	"is" : [
+		"never late",
+		"afraid of #noun.s#",
+		"never gonna let you down"
+	],
+	"can" : [
+		"sometimes take or leave #noun.s#",
+		"never disappoint #noun.s#"
+	],
+	"once" : [
+		"had his heart broken 20 years ago"
+	],
+	
+	"noun" : [
+		"microwave",
+		"nuneaton station",
+		"monday",
+		"void",
+		"lonliness",
+		"time",
+		"space",
+		"sun",
+		"horse",
+		"hater",
+		"premium hoe",
+		"egg",
+		"towel",
+		"soap",
+		"bathtub",
+		"shower",
+		"grass",
+		"fence",
+		"toilet",
+		"food"
+	],
+	
+	"hashtag" : [
+		"\\#GivingItLikeImGettingIt",
+		"\\#BasedOnTrueEvents",
+		"\\#GivingItAllThat"
+	]
+}
