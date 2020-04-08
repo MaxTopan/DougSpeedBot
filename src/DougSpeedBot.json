@@ -1,68 +1,77 @@
 {
-	"origin": [
-		"doug speed #connector# #ending#",
-		"doug speed #connector# #compund# #ending#",
-		"fuck you, the #noun# #ending#",
-		"the concept of a #noun# freaks me out. Why can't you be more like #noun.s#? #hashtag#"
-	],
-	"connector" : ["doesnt #doesnt#","will #will#","is #is#","can #can#", "once #once#"
-	],
-	"ending" : [
-		"",
-		"#hashtag#"
-	],
-	"compund" : [
-		"but #connector#",
-		"and #connector#"
-	],
-	"doesnt" : [
-			"stay anywhere two nights in a row",
-			"pay for first dates",
-			"fuck with #noun.s#",
-			"kiss on the lips"
-		],
-	"will" : [
-		"pick up #noun.a# to impress some #noun.s#"
-	],
-	"is" : [
-		"never late",
-		"afraid of #noun.s#",
-		"never gonna let you down"
-	],
-	"can" : [
-		"sometimes take or leave #noun.s#",
-		"never disappoint #noun.s#"
-	],
-	"once" : [
-		"had his heart broken 20 years ago"
-	],
-	
-	"noun" : [
-		"microwave",
-		"nuneaton station",
-		"monday",
-		"void",
-		"lonliness",
-		"time",
-		"space",
-		"sun",
-		"horse",
-		"hater",
-		"premium hoe",
-		"egg",
-		"towel",
-		"soap",
-		"bathtub",
-		"shower",
-		"grass",
-		"fence",
-		"toilet",
-		"food"
-	],
-	
-	"hashtag" : [
-		"\\#GivingItLikeImGettingIt",
-		"\\#BasedOnTrueEvents",
-		"\\#GivingItAllThat"
-	]
+  "origin": [
+    "doug speed #connector# #ending#",
+    "doug speed #connector# #compund# #ending#",
+    "fuck you, #fuckyou#",
+    "fuck you, #fuckyou# and fuck #fuckyou# too #ending#"
+  ],
+  "connector": [ "doesnt #doesnt#", "will #will#", "is #is#", "can #can#", "once #once#", "has #has#" ],
+  "ending": [ "", "#hashtag#" ],
+  "compund": [
+    "and #connector#"
+  ],
+  "doesnt": [
+    "stay anywhere two nights in a row",
+    "pay for first dates",
+    "fuck with #noun.s#",
+    "kiss on the lips",
+    "understand the #noun#"
+  ],
+  "will": [
+    "pick up #noun.a# to impress the #noun#",
+    "never give you up",
+    "never let you down",
+    "never run around and desert you",
+    "never make you cry",
+    "never tell a lie",
+    "never say goodbye"
+  ],
+  "is": [
+    "never late",
+    "secretly afraid of #noun.s#",
+    "never gonna let you down"
+  ],
+  "can": [
+    "sometimes take or leave #noun.s#",
+    "heal you baby, just give me a chance, please baby please"
+  ],
+  "has": [
+    "settled his beef with #noun.s#",
+    "a lot of cheap #noun.s# for sale no questions asked meet me in ten you know where ill be",
+    "forgotten his old life",
+    "a sixth sense that tells him when trouble is brewing"
+  ],
+  "once": [
+    "had his heart broken 20 years ago"
+  ],
+
+  "noun": [
+    "microwave",
+    "horse",
+    "hater",
+    "premium hoe",
+    "egg",
+    "towel",
+    "soap",
+    "bathtub",
+    "shower",
+    "grass",
+    "fence",
+    "toilet"
+  ],
+
+  "fuckyou": [
+    "all the haters",
+    "my manager tim",
+    "the passage of time",
+    "bathing",
+    "monogamy"
+  ],
+
+  "hashtag": [
+    "\\#GivingItLikeImGettingIt",
+    "\\#BasedOnTrueEvents",
+    "\\#GivingItAllThat",
+    "\\#TakeANightOff"
+  ]
 }
